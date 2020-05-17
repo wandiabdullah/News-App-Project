@@ -2,7 +2,7 @@
 
 Project of Mobile Development
 Group 7
-Wandi Syahid Abdullah         20180801387
+- Wandi Syahid Abdullah         20180801387
 
 
 ## Changelog
