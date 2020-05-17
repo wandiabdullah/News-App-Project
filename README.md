@@ -1,4 +1,14 @@
-# newsappproject
+# News App Project v.0.1
+
+Project of Mobile Development
+Group 7
+Wandi Syahid Abdullah         20180801387
+
+
+## Changelog
+First Update
+- Splash Screen
+- Firebase login
 
 New Application Project
 
